@@ -1976,3 +1976,31 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+/* booking section */
+.booking-form {
+  background: #ffffff;
+  padding: 2.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  max-width: 700px;
+  margin: 3rem auto;
+}
+.form-title {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #2c3e50;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.form-control:focus {
+  border-color: #7f8c8d;
+  box-shadow: 0 0 0 0.2rem rgba(127, 140, 141, 0.25);
+}
+.btn-primary {
+  background-color: #4a90e2;
+  border: none;
+}
+.btn-primary:hover {
+  background-color: #3b7bd9;
+}
