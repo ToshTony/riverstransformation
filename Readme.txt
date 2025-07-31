@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: BizLand
-Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+git config --global user.name "Tony"
+git config --global user.email "jayton006@gmail.com"
