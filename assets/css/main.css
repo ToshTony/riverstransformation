@@ -872,7 +872,7 @@ section,
 
 .hero:before {
   content: "";
-  background: color-mix(in srgb, var(--background-color), transparent 50%);
+  background: color-mix(in srgb, var(--background-color), transparent 80%);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -1689,7 +1689,7 @@ section,
 }
 
 .faq .faq-container .faq-item h3:hover {
-  color: var(--accent-color);
+  color: var(--rednote-color);
 }
 
 .faq .faq-container .faq-item .faq-content {
@@ -1720,7 +1720,7 @@ section,
 }
 
 .faq .faq-container .faq-active {
-  background-color: var(--rednote-color);
+  background-color: var(--accent-color);
   border-color: black;
   color: var(--contrast-color);
 }
